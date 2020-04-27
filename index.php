@@ -26,7 +26,7 @@
             
             <div class="col-md-4 text-success">
                 <h5>Recovered</h5>
-                <?php echo $total_recoverd;?>
+                <?php echo $total_recovered;?>
             </div>
             
             <div class="col-md-4 text-danger">
